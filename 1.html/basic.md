@@ -23,4 +23,5 @@
 - HTML is all wrap 
 - Head is description doc's head
 - Body is description doc's content
-- use unlike's tag show unlike's chart
+- Use unlike's tag show unlike's chart
+- Each tags have myself's attribute
