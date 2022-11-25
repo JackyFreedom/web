@@ -2,7 +2,7 @@
 > HTML is Description web structure's a species language
 
 ## Example
-``
+```html
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -18,7 +18,7 @@
 </body>
 </html>
 
-``
+```
 - DOCTYPE is description doc's type
 - HTML is all wrap 
 - Head is description doc's head
