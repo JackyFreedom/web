@@ -3,7 +3,8 @@
 ## Catalog
 ### HTML
 - [HTML basic](./1.html/basic)
-
+- [HTML map](./1.html/map)
+- [HTML dictionry](./1.html/dictionry)
 ### CSS
 - [HTML basic](./2.css/index)
 
