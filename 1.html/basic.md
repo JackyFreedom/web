@@ -1,8 +1,8 @@
 # HTML description
-> Html is Description web structure's a species language
+> HTML is Description web structure's a species language
 
 ## Example
-`
+``
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -18,9 +18,9 @@
 </body>
 </html>
 
-`
+``
 - DOCTYPE is description doc's type
-- Html is all wrap 
+- HTML is all wrap 
 - Head is description doc's head
 - Body is description doc's content
 - use unlike's tag show unlike's chart
