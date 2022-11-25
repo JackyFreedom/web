@@ -2,16 +2,16 @@
 
 ## Catalog
 ### HTML
-- [HTML basic](./../1.html/index)
+- [HTML basic](./1.html/index)
 
 ### CSS
-- [HTML basic](./../2.css/index)
+- [HTML basic](./2.css/index)
 
 ### Javascript 
-- [HTML basic](./../3.javascript/index)
+- [HTML basic](./3.javascript/index)
 
 ### tools
-- [HTML basic](./../4.tools/index)
+- [HTML basic](./4.tools/index)
 - 
 ### React
-- [HTML basic](./../5.node/index)
+- [HTML basic](./5.node/index)
