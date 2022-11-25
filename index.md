@@ -2,7 +2,7 @@
 
 ## Catalog
 ### HTML
-- [HTML basic](./1.html/index)
+- [HTML basic](./1.html/basic)
 
 ### CSS
 - [HTML basic](./2.css/index)
