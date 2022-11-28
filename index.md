@@ -8,16 +8,16 @@
 
 
 ### CSS
-- [HTML basic](./2.css/index)
+- [CSS basic](./2.css/index)
 
 
 ### Javascript 
-- [HTML basic](./3.javascript/index)
+- [Javascript basic](./3.javascript/index)
 
 
-### tools
-- [HTML basic](./4.tools/index)
+### Tools
+- [Tools basic](./4.tools/index)
   
 
 ### React
-- [HTML basic](./5.node/index)
+- [React basic](./5.node/index)
